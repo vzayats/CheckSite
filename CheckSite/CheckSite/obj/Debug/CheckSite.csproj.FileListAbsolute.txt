@@ -1,0 +1,8 @@
+C:\Users\vzaya_000\Dropbox\CheckSite\CheckSite\bin\Debug\CheckSite.exe.config
+C:\Users\vzaya_000\Dropbox\CheckSite\CheckSite\obj\Debug\CheckSite.csprojResolveAssemblyReference.cache
+C:\Users\vzaya_000\Dropbox\CheckSite\CheckSite\bin\Debug\CheckSite.exe
+C:\Users\vzaya_000\Dropbox\CheckSite\CheckSite\bin\Debug\CheckSite.pdb
+C:\Users\vzaya_000\Dropbox\CheckSite\CheckSite\bin\Debug\Ninject.dll
+C:\Users\vzaya_000\Dropbox\CheckSite\CheckSite\bin\Debug\Ninject.xml
+C:\Users\vzaya_000\Dropbox\CheckSite\CheckSite\obj\Debug\CheckSite.exe
+C:\Users\vzaya_000\Dropbox\CheckSite\CheckSite\obj\Debug\CheckSite.pdb
